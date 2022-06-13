@@ -4,10 +4,9 @@
   </a>
 </div>
 
-- 🔭 I’m a part time computer science student, and am mostly self taught
+- 🔭 I’m a computer science student
 - 🌱 I'm currently working on the coursera bioinformatics specialization
 - ⚡ I publish my solutions to the more difficult problems
-- 😄 I love making animated demos to illustrate the inner workings of algorithms
 - :fire: I have a bachelor's degree in chemistry/biochemistry from UCSB CCS
 
 ---
