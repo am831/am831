@@ -11,7 +11,6 @@
 - 🔭 I’m a computer science student
 - 🌱 I'm currently working on the coursera bioinformatics specialization
 - ⚡ I publish my solutions to the more difficult problems
-- :fire: I have a bachelor's degree in chemistry/biochemistry from UCSB CCS
 
 ---
 
