@@ -1,1 +1,1 @@
-
+Currently working on the Coursera Bioinformatics specialization. I've solved problems up to global alignment with affine gap penalties. Please request to see my private repo, making it public would be against Coursera/Rosalind honor code.
