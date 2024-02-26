@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a self taught software engineer from California. I have been studying programming for 3 years through taking online courses, working on personal projects, contributing to open source and collaborating with others.  
+I am a self taught software engineer from California. I have been studying programming for 3.5 years through taking online courses, working on personal projects, contributing to open source and collaborating with others.  
 - :seedling: I'm currently participating in the 12 week MLH fellowship and working with Meta
 - :zap: I'm a career changer with a bachelor's degree in biochemistry from UCSB
 - :telescope: I'm interested in biotech, artificial intelligence, and backend development
